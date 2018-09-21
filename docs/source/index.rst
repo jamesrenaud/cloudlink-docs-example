@@ -6,8 +6,10 @@
 CloudLink Help Center
 ==========================================
 
-.. image:: images/OL2.svg 
+.. image:: images/OL2.svg
+    :target: officelink/index
 .. image:: images/cl2.svg
+    :target: cloudlink/index
 
 
 
